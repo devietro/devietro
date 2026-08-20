@@ -75,7 +75,7 @@ same stretch of years. I move fast across stacks that don't usually talk to each
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java,cpp,php,swift,nodejs,nextjs,react,wordpress,git,gcp,aws&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nextjs,react,tailwind,nodejs,django,postgres,redis,docker,gcp,aws,git&perline=7)](https://skillicons.dev)
 
 ## 🔬 Selected Projects
 
