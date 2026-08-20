@@ -83,15 +83,6 @@ same stretch of years. I move fast across stacks that don't usually talk to each
 - **IoT Home-Automation Bot** — Python bot integrating Shelly smart-home devices via API to monitor machinery uptime.
 - **Freelance Web Portfolio** — e-commerce storefronts, WordPress sites, and Next.js apps on a headless CMS, delivered on deadline.
 
-<!--
-  ── WakaTime weekly breakdown (opzionale) ──────────────────────────────
-  Per la tabella "Weekly development breakdown" auto-aggiornata:
-  1. Account su https://wakatime.com + plugin nel tuo editor.
-  2. GitHub Action "waka-readme" (github.com/athul/waka-readme).
-  3. La action riempie da sola tra i marcatori qui sotto.
-  Senza setup, cancella l'intero blocco: meglio niente che numeri finti.
--->
-
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
@@ -105,4 +96,4 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-de-vietro-760b16137/)
