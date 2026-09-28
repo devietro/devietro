@@ -6,7 +6,7 @@
 
 ```ts
 const andrea = {
-  role: "Co-founder & AI Engineer @ DEVON (LegalTech)",
+  role: "Co-founder @ DEVON - AI Engineer @ REVISMART",
   focus: "LLMOps · Retrieval-Augmented Generation · full-stack product",
   background: "Cybersecurity research · CyberChallenge.IT 2024 national finalist",
   based: "Reggio Emilia, Italy 🇮🇹",
